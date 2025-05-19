@@ -8,3 +8,7 @@ geopy
 requests
 pytest
 jupyterlab
+
+> Optional for enhanced visualizations:
+basemap
+cartopy
