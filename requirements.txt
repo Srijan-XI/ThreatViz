@@ -1,0 +1,10 @@
+Flask
+matplotlib
+pandas
+numpy
+sqlalchemy
+gunicorn
+geopy
+requests
+pytest
+jupyterlab
