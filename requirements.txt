@@ -1,14 +1,15 @@
-Flask
-matplotlib
-pandas
-numpy
-sqlalchemy
-gunicorn
-geopy
-requests
-pytest
-jupyterlab
+pip install Flask
+pip install matplotlib
+pip install pandas
+pip install numpy
+pip install SQLAlchemy
+pip install gunicorn
+pip install geopy
+pip install requests
+pip install pytest
+pip install jupyterlab
 
 > Optional for enhanced visualizations:
-basemap
-cartopy
+pip install basemap
+pip install cartopy
+
